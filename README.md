@@ -6,7 +6,7 @@ My programming journey so far: 🤖
 - 2019: Made my diploma work about Object Detection: [link](https://github.com/tbareas/CV_sentinel_object_detection)
 - 2020-2023: Working as a GIS analyst. Also doing work in SQL, Python.
 Learned basics of Linux. Made some machine learning projects in Pytorch and Tensorflow.
-- 2023: Tensorflow Developer Certificate ✅
+- 2023: Tensorflow Developer Certificate ⚡
 
 <!--
 **tbareas/tbareas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
