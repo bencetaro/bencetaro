@@ -10,7 +10,7 @@ Learned basics of Linux. Made some machine learning projects in Pytorch and Tens
 
 Future plans:
 - Master Linux, because it is simply great! 🐧
-- Reinforcement learning
+- Cloud computing
 - Many more... 🤓
 
 <!--
