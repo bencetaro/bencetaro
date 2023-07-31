@@ -9,7 +9,7 @@ Learned basics of Linux. Made some machine learning projects in Pytorch and Tens
 - 2023: Tensorflow Developer Certificate ⚡ [link](https://www.credential.net/2fe2aedd-a7a7-43d9-bc19-767565c33a04)
 
 Future plans:
-- Master Linux, because it is simply great! 🐧
+- Learning more Linux, because it is simply great! 🐧
 - Cloud computing
 - Many more... 🤓
 
