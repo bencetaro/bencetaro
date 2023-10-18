@@ -7,7 +7,7 @@ My programming journey so far: 🤖
 - 2020-2023: Working as a GIS analyst. Also doing work in SQL, Python. 
 Learned basics of Linux. Made some machine learning projects in Pytorch and Tensorflow.
 - 2023: Tensorflow Developer Certificate ⚡ [link](https://www.credential.net/2fe2aedd-a7a7-43d9-bc19-767565c33a04)
-- Currently learning ML cloud computing.
+- Currently learning ML cloud computing with GCP.
 
 Future plans:
 - Learning more terminal commands
