@@ -10,8 +10,7 @@ Learned basics of Linux. Made some machine learning projects in Pytorch and Tens
 - 2024: Working as ML developer. Main subjects: Semantic segmentation, Object detection.
 
 Future plans:
-- Learn ML related cloud computing
-- Getting deeper knowledge of generative models, reinforcement learning
+- Gaining more experience in generative AI, reinforcement learning
 
 <!--
 **tbareas/tbareas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
