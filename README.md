@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My programming journey so far: 🤖
+Welcome to my github page. Below you can see my programming journey so far: 🤖
 - 2017: Learned C/C++ as first programming language
 - 2018: Switched to Python because of GIS applications
 - 2019: Made my diploma work about Object Detection: [repo](https://github.com/bencetaro/CV_sentinel_object_detection)
@@ -10,7 +10,7 @@ Learned basics of Linux. Made some machine learning projects in Pytorch and Tens
 - 2024: Working as ML developer. Main subjects: Semantic segmentation, Object detection.
 
 Future plans:
-- Gaining more experience in generative AI, reinforcement learning
+- Learning more about generative AI, reinforcement learning
 
 <!--
 **tbareas/tbareas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
