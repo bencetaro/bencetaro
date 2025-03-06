@@ -24,6 +24,7 @@ Computer Vision:
 - [SAM prompting on Magnetic Tile Surface Defects dataset *(segmentation)*](https://github.com/bencetaro/CV_SAM_prompting/blob/main/sam-test-on-magnetic-tile-surface-defects-dataset.ipynb)
 - [Object detection of water bodies on Sentinel images *(object detection)*](https://github.com/bencetaro/CV_sentinel_object_detection)
 - [PetFinder.my - Pawpularity Contest *(classification)*](https://github.com/bencetaro/CV_pawpularity_contest/blob/main/petfinder-with-fastai-resnet50-pretrained.ipynb)
+- [I’m Something of a Painter Myself *(image generation)*](https://github.com/bencetaro/CV_Monet_painting_generator/blob/main/monet-painting-generator-with-cyclegan-pytorch.ipynb)
 
 NLP:
 - [News-Headlines-Dataset-For-Sarcasm-Detection *(classification)*](https://github.com/bencetaro/NLP_sarcasm_sentiment_analysis/blob/main/tf_nlp_sarcasm.ipynb)
