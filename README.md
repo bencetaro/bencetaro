@@ -16,6 +16,7 @@ Tabular:
 - [Porto Seguro’s Safe Driver Prediction *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/car-insurance.ipynb)
 - [Spaceship Titanic *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/spaceship-titanic-notebook.ipynb)
 - [Forest Cover Type *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-ensemble.ipynb)
+- [Forest Cover Type (Ensemble) *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-ensemble.ipynb)
 
 Computer Vision:
 - [HuBMAP - Hacking the Human Vasculature *(segmentation)*](https://github.com/bencetaro/CV_hubmap_segmenation)
