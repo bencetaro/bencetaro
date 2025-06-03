@@ -13,6 +13,7 @@ Public works:
 
 Tabular:
 - [House Prices - Advanced Regression Techniques *(regression)*](https://github.com/bencetaro/tabular_notebooks/blob/main/house_price_regression_spline_gam.ipynb)
+- [Sberbank Russian Housing Market *(regression)*](https://github.com/bencetaro/tabular_notebooks/blob/main/sberbank-notebook.ipynb)
 - [Porto Seguro’s Safe Driver Prediction *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/car-insurance.ipynb)
 - [Spaceship Titanic *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/spaceship-titanic-notebook.ipynb)
 - [Forest Cover Type *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-classification-notebook.ipynb)
