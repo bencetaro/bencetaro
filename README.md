@@ -31,6 +31,7 @@ Computer Vision:
 NLP:
 - [News-Headlines-Dataset-For-Sarcasm-Detection *(sentiment analysis)*](https://github.com/bencetaro/NLP_sarcasm_sentiment_analysis/blob/main/tf_nlp_sarcasm.ipynb)
 - [IMDB Bag of Words Meets Bags of Popcorn *(sentiment analysis)*](https://github.com/bencetaro/NLP_imdb_sentiment_analysis/blob/master/sentiment-analysis-with-keras.ipynb)
+- [Shakespeare poem generator *(text generation)*](https://github.com/bencetaro/NLP_Shakespeare_poem_gen/blob/main/shakespeare_poem_generator.ipynb)
 - [Tensorflow tutorials](https://github.com/bencetaro/NLP_tensorflow_tutorials)
 
 
