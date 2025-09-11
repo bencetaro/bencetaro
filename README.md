@@ -18,7 +18,7 @@ Tabular:
 - [Spaceship Titanic *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/spaceship-titanic-notebook.ipynb)
 - [Forest Cover Type *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-classification-notebook.ipynb)
 - [Forest Cover Type (Ensemble) *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-ensemble.ipynb)
-- [Time Series Analysis On Vehicles Traffic *(time series analysis)*] (https://github.com/bencetaro/tabular_notebooks/blob/main/time-series-forecasting-on-vehicle-traffic.ipynb)
+- [Time Series Analysis On Vehicles Traffic *(time series analysis)*](https://github.com/bencetaro/tabular_notebooks/blob/main/time-series-forecasting-on-vehicle-traffic.ipynb)
 
 Computer Vision:
 - [HuBMAP - Hacking the Human Vasculature *(segmentation)*](https://github.com/bencetaro/CV_hubmap_segmenation)
