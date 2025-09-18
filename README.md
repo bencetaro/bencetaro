@@ -4,8 +4,7 @@ Welcome to my github page. Below you can see my programming journey so far: 🤖
 - 2017: Learned C++ as first programming language
 - 2018: Switched to Python for GIS application development
 - 2019: Made my diploma work about DL and Object Detection
-- 2020-2023: Working as a GIS analyst. Also doing work in SQL, Python. 
-Learned basics of Linux. Made some machine learning projects in Pytorch and Tensorflow.
+- 2020-2023: Working as a GIS analyst. Also doing work in SQL, Python. Made some machine learning projects and learned a lot more about statistics.
 - 2023: Tensorflow Developer Certificate ⚡ [link](https://www.credential.net/2fe2aedd-a7a7-43d9-bc19-767565c33a04)
 - 2024: Working as ML developer
 - 2025: Finished my studies in ELTE as *Mathematics expert in data analytics and machine learning* 🎓
