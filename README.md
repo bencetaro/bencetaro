@@ -39,6 +39,8 @@ NLP:
 - [IMDB Bag of Words Meets Bags of Popcorn *(sentiment analysis)*](https://github.com/bencetaro/NLP_imdb_sentiment_analysis/blob/master/sentiment-analysis-with-keras.ipynb)
 - [Tensorflow tutorials](https://github.com/bencetaro/NLP_tensorflow_tutorials)
 
+MLOps:
+- [End-to-end Docker-based MLOps pipeline *(for demonstration)*](https://github.com/bencetaro/mlops_porto)
 
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
