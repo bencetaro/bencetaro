@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Welcome to my GitHub page, where I share my programming journey and AI/Data Analysis projects. Here is a snapshot of my work over the past few years:
+Welcome to my GitHub page, where I share my programming journey and Data Science projects. Here is a snapshot of my work over the past few years:
 - 2017: Learned C++ as first programming language.
 - 2018: Switched to Python for GIS application development and spatial data analysis.
 - 2019: Completed my thesis on Object Detection, which was my first real deep learning project.
