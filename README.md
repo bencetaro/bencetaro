@@ -37,7 +37,6 @@ NLP:
 - [RAG-assisted Mistral-7B for QA *(question answering)*](https://github.com/bencetaro/NLP_rag_assisted_mistral)
 - [News-Headlines-Dataset-For-Sarcasm-Detection *(sentiment analysis)*](https://github.com/bencetaro/NLP_sarcasm_sentiment_analysis/blob/main/tf_nlp_sarcasm.ipynb)
 - [IMDB Bag of Words Meets Bags of Popcorn *(sentiment analysis)*](https://github.com/bencetaro/NLP_imdb_sentiment_analysis/blob/master/sentiment-analysis-with-keras.ipynb)
-- [Tensorflow tutorials](https://github.com/bencetaro/NLP_tensorflow_tutorials)
 
 MLOps:
 - [End-to-end Docker-based MLOps pipeline *(for demonstration)*](https://github.com/bencetaro/mlops_porto)
