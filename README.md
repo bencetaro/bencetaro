@@ -25,7 +25,7 @@ Computer Vision:
     - [Model comparison (UNet,UNeXt,Swin-Tr)](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/comparison-notebook.ipynb)
     - [Semi-Supervised Learning with UNeXt](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/ssl-notebook-unext.ipynb)
     - [Cyclical training with an automated LR-finder](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/hubmap-unet-cyclical-training.ipynb)
-- [Batch-inference with different SAM-variants *(segmentation)*](https://github.com/tbencegh/SAM_inference)
+- [Performance comparison of SAM-variants for batch-inference *(segmentation)*](https://github.com/tbencegh/SAM_inference)
 - [SAM prompting on Magnetic Tile Surface Defects dataset *(segmentation)*](https://github.com/bencetaro/CV_SAM_prompting/blob/main/sam-test-on-magnetic-tile-surface-defects-dataset.ipynb)
 - [Green space mapping on satellite images *(segmentation)*](https://github.com/bencetaro/CV_sentinel_segment)
 - [Google Research - Identify Contrails to Reduce Global Warming *(segmentation)*](https://github.com/bencetaro/CV_contrail_segmentation_tensorflow/blob/master/contrail-segmentation-tensorflow.ipynb)
