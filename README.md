@@ -11,7 +11,7 @@ Welcome to my GitHub page, where I share my programming journey and Data Science
 
 Public works:
 
-Tabular:
+📊 Tabular:
 - [House Prices - Advanced Regression Techniques *(regression)*](https://github.com/bencetaro/tabular_notebooks/blob/main/house_price_regression_spline_gam.ipynb)
 - [Sberbank Russian Housing Market *(regression)*](https://github.com/bencetaro/tabular_notebooks/blob/main/sberbank-notebook.ipynb)
 - [Porto Seguro’s Safe Driver Prediction *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/car-insurance.ipynb)
@@ -20,7 +20,7 @@ Tabular:
 - [Forest Cover Type (Ensemble) *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-ensemble.ipynb)
 - [Time Series Analysis On Vehicles Traffic *(time series analysis)*](https://github.com/bencetaro/tabular_notebooks/blob/main/time-series-forecasting-on-vehicle-traffic.ipynb)
 
-Computer Vision:
+🖼️ Computer Vision:
 - [HuBMAP - Hacking the Human Vasculature *(segmentation)*](https://github.com/bencetaro/CV_hubmap_segmenation)
     - [Model comparison (UNet,UNeXt,Swin-Tr)](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/comparison-notebook.ipynb)
     - [Semi-Supervised Learning with UNeXt](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/ssl-notebook-unext.ipynb)
@@ -33,14 +33,15 @@ Computer Vision:
 - [PetFinder.my - Pawpularity Contest *(classification)*](https://github.com/bencetaro/CV_pawpularity_contest/blob/main/petfinder-with-fastai-resnet50-pretrained.ipynb)
 - [I’m Something of a Painter Myself *(image generation)*](https://github.com/bencetaro/CV_Monet_painting_generator/blob/main/monet-painting-generator-with-cyclegan-pytorch.ipynb)
 
-NLP:
+📚 NLP:
 - [Shakespeare poem generator *(text generation)*](https://github.com/bencetaro/NLP_Shakespeare_poem_gen/blob/main/shakespeare_poem_generator.ipynb)
 - [RAG-assisted Mistral-7B for QA *(question answering)*](https://github.com/bencetaro/NLP_rag_assisted_mistral)
 - [News-Headlines-Dataset-For-Sarcasm-Detection *(sentiment analysis)*](https://github.com/bencetaro/NLP_sarcasm_sentiment_analysis/blob/main/tf_nlp_sarcasm.ipynb)
 - [IMDB Bag of Words Meets Bags of Popcorn *(sentiment analysis)*](https://github.com/bencetaro/NLP_imdb_sentiment_analysis/blob/master/sentiment-analysis-with-keras.ipynb)
 
-MLOps:
-- [End-to-end Docker-based MLOps pipeline *(for demonstration)*](https://github.com/bencetaro/mlops_porto)
+⚙️ MLOps:
+- [Docker-based MLOps pipeline *(for demonstration)*](https://github.com/bencetaro/mlops_porto)
+- [Docker-based MLOps pipeline (multi-service: MLflow, S3, Prometheus, Grafana) *(for demonstration)*](https://github.com/bencetaro/mlops_sentinel)
 
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
