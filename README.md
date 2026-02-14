@@ -42,6 +42,7 @@ Public works:
 ⚙️ MLOps:
 - [Docker-based MLOps pipeline](https://github.com/bencetaro/mlops_porto)
 - [Monitoring focused MlOps demo (featuring: MLflow, S3, Prometheus, Grafana)](https://github.com/bencetaro/mlops_sentinel)
+- [Streamlit ML web application demo](https://github.com/bencetaro/mlops_streamlit_app)
 
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
