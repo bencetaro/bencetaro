@@ -40,8 +40,8 @@ Public works:
 - [IMDB Bag of Words Meets Bags of Popcorn *(sentiment analysis)*](https://github.com/bencetaro/NLP_imdb_sentiment_analysis/blob/master/sentiment-analysis-with-keras.ipynb)
 
 ⚙️ MLOps:
-- [Docker-based MLOps pipeline *(for demonstration)*](https://github.com/bencetaro/mlops_porto)
-- [Docker-based MLOps pipeline (multi-service: MLflow, S3, Prometheus, Grafana) *(for demonstration)*](https://github.com/bencetaro/mlops_sentinel)
+- [Docker-based MLOps pipeline](https://github.com/bencetaro/mlops_porto)
+- [Monitoring focused MlOps demo (featuring: MLflow, S3, Prometheus, Grafana)](https://github.com/bencetaro/mlops_sentinel)
 
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
