@@ -7,7 +7,7 @@ Welcome to my GitHub page, where I share my programming journey and Data Science
 - **2019:** Completed my thesis on Object Detection, which was my first real deep learning project.
 - **2020-2023:** Started working in a GIS analyst role, where I applied my SQL and Python skills. I also created some machine learning projects and expanded my statistical knowledge.
 - **2023:** Earned the Tensorflow Developer Certification ⚡ [link](https://www.credential.net/2fe2aedd-a7a7-43d9-bc19-767565c33a04)
-- **2024:** Started working as a ML engineer.
+- **2024:** Started working as a ML Engineer.
 - **2025:** Graduated from ELTE as *Mathematics expert in data analytics and machine learning.* 🎓
 
 ---
