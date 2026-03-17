@@ -78,7 +78,8 @@ Welcome to my GitHub page, where I share my programming journey and Data Science
     <p>Grafana dashboard</p>
     <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/1.png" alt="Grafana dashboard 1" target="_blank" width="300"/>
     <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/2.png" alt="Grafana dashboard 2" target="_blank" width="300"/>
-    <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/4.png" alt="Grafana dashboard 3" target="_blank" width="300"/>
+    <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/3.png" alt="Grafana dashboard 3" target="_blank" width="300"/>
+    <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/4.png" alt="Grafana dashboard 4" target="_blank" width="300"/>
 </div>
 
 
