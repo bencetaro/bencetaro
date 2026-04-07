@@ -72,13 +72,13 @@ Here is a snapshot of my work over the past few years:
 
 #### *Overview pictures*
 <div style="display: flex; justify-content: space-around;">
-    <p>Inference API</p>
+    <p>Inference API (Porto Seguro dataset)</p>
     <img src="https://github.com/bencetaro/mlops_porto_monitoring/blob/master/images/mlops_infer.png" target="_blank" width="300"/>
     <img src="https://github.com/bencetaro/mlops_porto_monitoring/blob/master/images/mlops_comp.png" target="_blank" width="300"/>
     <img src="https://github.com/bencetaro/mlops_porto_monitoring/blob/master/images/mlops_train1.png" target="_blank" width="300"/>
 </div>
 <div style="display: flex; justify-content: space-around;">
-    <p>Grafana dashboard</p>
+    <p>Grafana dashboard (Porto Seguro dataset)</p>
     <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/1.png" alt="Grafana dashboard 1" target="_blank" width="300"/>
     <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/2.png" alt="Grafana dashboard 2" target="_blank" width="300"/>
     <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/3.png" alt="Grafana dashboard 3" target="_blank" width="300"/>
