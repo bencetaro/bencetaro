@@ -65,10 +65,10 @@ Here is a snapshot of my work over the past few years:
 ### ⚙️ MLOps
 - [Docker-based MLOps pipeline](https://github.com/bencetaro/mlops_porto)
 - [Monitoring focused MlOps demo (featuring: MLflow, S3, Prometheus, Grafana)](https://github.com/bencetaro/mlops_sentinel)
-- [Streamlit ML web application demo](https://github.com/bencetaro/mlops_streamlit_app)
 - [ML web app & monitoring project (featuring: FastAPI, Streamlit, Prometheus, Grafana)](https://github.com/bencetaro/mlops_porto_monitoring)
     - [v2: Docker-composed version (new feats: MLflow registry, multi-container training, Docker profiles)](https://github.com/bencetaro/mlops_porto_monitoring_v2)
     - [v3: Extended with Kubernetes controlled infrastructure](https://github.com/bencetaro/mlops_porto_monitoring_v3)
+- [Simple web app showcasing a GitHub Actions CI/CD pipeline](https://github.com/bencetaro/mlops_streamlit_app)
 
 #### *Overview pictures*
 <div style="display: flex; justify-content: space-around;">
