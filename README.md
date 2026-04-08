@@ -4,8 +4,8 @@ Welcome to my GitHub portfolio, where I share my programming journey and Data Sc
 
 Here is a snapshot of my work over the past few years:
 
-- **2017:** Learned C++ as first programming language.
-- **2018:** Switched to Python for GIS application development and spatial data analysis.
+- **2017:** First programming experience with C++.
+- **2018:** Switched to Python for GIS applications and spatial data analysis.
 - **2019:** Completed my thesis on Object Detection, which was my first real deep learning project.
 - **2020-2023:** Started working in a GIS analyst role, where I applied my SQL and Python skills. I also created some machine learning projects and expanded my statistical knowledge.
 - **2023:** Earned the *Tensorflow Developer Certification* ⚡ [link](https://www.credential.net/2fe2aedd-a7a7-43d9-bc19-767565c33a04)
