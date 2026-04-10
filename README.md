@@ -15,7 +15,9 @@ Here is a snapshot of my work over the past few years:
 
 ## My Public Works
 
-### 📊 Tabular
+<details>
+  <summary><b>📊 Tabular</b></summary>
+
 - [House Prices - Advanced Regression Techniques *(regression)*](https://github.com/bencetaro/tabular_notebooks/blob/main/house_price_regression_spline_gam.ipynb)
 - [Sberbank Russian Housing Market *(regression)*](https://github.com/bencetaro/tabular_notebooks/blob/main/sberbank-notebook.ipynb)
 - [Porto Seguro’s Safe Driver Prediction *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/car-insurance.ipynb)
@@ -24,9 +26,11 @@ Here is a snapshot of my work over the past few years:
 - [Forest Cover Type (Ensemble) *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-ensemble.ipynb)
 - [Time Series Analysis On Vehicles Traffic *(time series analysis)*](https://github.com/bencetaro/tabular_notebooks/blob/main/time-series-forecasting-on-vehicle-traffic.ipynb)
 
----
+</details>
 
-### 🖼️ Computer Vision
+<details>
+  <summary><b>🖼️  Computer Vision</b></summary>
+
 - [HuBMAP - Hacking the Human Vasculature *(segmentation)*](https://github.com/bencetaro/CV_hubmap_segmenation)
     - [Model comparison (UNet,UNeXt,Swin-Tr)](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/comparison-notebook.ipynb)
     - [Semi-Supervised Learning with UNeXt](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/ssl-notebook-unext.ipynb)
@@ -39,30 +43,33 @@ Here is a snapshot of my work over the past few years:
 - [PetFinder.my - Pawpularity Contest *(classification)*](https://github.com/bencetaro/CV_pawpularity_contest/blob/main/petfinder-with-fastai-resnet50-pretrained.ipynb)
 - [I’m Something of a Painter Myself *(image generation)*](https://github.com/bencetaro/CV_Monet_painting_generator/blob/main/monet-painting-generator-with-cyclegan-pytorch.ipynb)
 
-#### *Overview pictures*
-<div style="display: flex; justify-content: space-around;">
-    <p>HuBMAP segmentation</p>
-    <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm2.png" alt="Seg2" target="_blank" width="200"/>
-    <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm4.png" alt="Seg4" target="_blank" width="200"/>
-    <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm1.png" alt="Seg1" target="_blank" width="300"/>
-</div>
-<div style="display: flex; justify-content: space-around;">
-    <p>Green space mapping & Contrails results</p>
-    <img src="https://user-images.githubusercontent.com/113855055/193895247-1d26a7ff-115f-4dc7-bac5-b9b1936e7d74.JPG" target="_blank" width="400"/>
-    <img src="https://github.com/bencetaro/CV_contrail_segmentation_tensorflow/blob/master/images/segm_result.png" target="_blank" width="300"/>
-</div>
+    **Overview pictures**
+    <div style="display: flex; justify-content: space-around;">
+        <p>HuBMAP segmentation</p>
+        <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm2.png" alt="Seg2" target="_blank" width="200"/>
+        <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm4.png" alt="Seg4" target="_blank" width="200"/>
+        <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm1.png" alt="Seg1" target="_blank" width="300"/>
+    </div>
+    <div style="display: flex; justify-content: space-around;">
+        <p>Green space mapping & Contrails results</p>
+        <img src="https://user-images.githubusercontent.com/113855055/193895247-1d26a7ff-115f-4dc7-bac5-b9b1936e7d74.JPG" target="_blank" width="400"/>
+        <img src="https://github.com/bencetaro/CV_contrail_segmentation_tensorflow/blob/master/images/segm_result.png" target="_blank" width="300"/>
+    </div>
+</details>
 
----
+<details>
+  <summary><b>📚 NLP</b></summary>
 
-### 📚 NLP
 - [Shakespeare poem generator *(text generation)*](https://github.com/bencetaro/NLP_Shakespeare_poem_gen/blob/main/shakespeare_poem_generator.ipynb)
 - [RAG-assisted Mistral-7B for QA *(question answering)*](https://github.com/bencetaro/NLP_rag_assisted_mistral)
 - [News-Headlines-Dataset-For-Sarcasm-Detection *(sentiment analysis)*](https://github.com/bencetaro/NLP_sarcasm_sentiment_analysis/blob/main/tf_nlp_sarcasm.ipynb)
 - [IMDB Bag of Words Meets Bags of Popcorn *(sentiment analysis)*](https://github.com/bencetaro/NLP_imdb_sentiment_analysis/blob/master/sentiment-analysis-with-keras.ipynb)
 
----
+</details>
 
-### ⚙️ MLOps
+<details>
+  <summary><b>⚙️ MLOps</b></summary>
+
 - [Docker-based MLOps pipeline](https://github.com/bencetaro/mlops_porto)
 - [Satellite imagery with MLOps (featuring: MLflow, S3, Prometheus, Grafana)](https://github.com/bencetaro/mlops_sentinel)
 - [ML web app & monitoring project (featuring: FastAPI, Streamlit, Prometheus, Grafana)](https://github.com/bencetaro/mlops_porto_monitoring)
@@ -70,19 +77,19 @@ Here is a snapshot of my work over the past few years:
     - [v3: Extended with Kubernetes controlled infrastructure](https://github.com/bencetaro/mlops_porto_monitoring_v3)
 - [Simple web app showcasing a GitHub Actions CI/CD pipeline](https://github.com/bencetaro/mlops_streamlit_app)
 
-#### *Overview pictures*
-<div style="display: flex; justify-content: space-around;">
-    <p>Inference API (Porto Seguro dataset)</p>
-    <img src="https://github.com/bencetaro/mlops_porto_monitoring/blob/master/images/mlops_infer.png" target="_blank" width="300"/>
-    <img src="https://github.com/bencetaro/mlops_porto_monitoring/blob/master/images/mlops_comp.png" target="_blank" width="300"/>
-    <img src="https://github.com/bencetaro/mlops_porto_monitoring/blob/master/images/mlops_train1.png" target="_blank" width="300"/>
-</div>
-<div style="display: flex; justify-content: space-around;">
-    <p>Grafana dashboard (Porto Seguro dataset)</p>
-    <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/1.png" alt="Grafana dashboard 1" target="_blank" width="300"/>
-    <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/2.png" alt="Grafana dashboard 2" target="_blank" width="300"/>
-    <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/3.png" alt="Grafana dashboard 3" target="_blank" width="300"/>
-    <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/4.png" alt="Grafana dashboard 4" target="_blank" width="300"/>
-</div>
-
+  **Overview pictures**
+    <div style="display: flex; justify-content: space-around;">
+        <p>Inference API (Porto Seguro dataset)</p>
+        <img src="https://github.com/bencetaro/mlops_porto_monitoring/blob/master/images/mlops_infer.png" target="_blank" width="300"/>
+        <img src="https://github.com/bencetaro/mlops_porto_monitoring/blob/master/images/mlops_comp.png" target="_blank" width="300"/>
+        <img src="https://github.com/bencetaro/mlops_porto_monitoring/blob/master/images/mlops_train1.png" target="_blank" width="300"/>
+    </div>
+    <div style="display: flex; justify-content: space-around;">
+        <p>Grafana dashboard (Porto Seguro dataset)</p>
+        <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/1.png" alt="Grafana dashboard 1" target="_blank" width="300"/>
+        <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/2.png" alt="Grafana dashboard 2" target="_blank" width="300"/>
+        <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/3.png" alt="Grafana dashboard 3" target="_blank" width="300"/>
+        <img src="https://github.com/bencetaro/mlops_porto_monitoring_v2/blob/master/images/4.png" alt="Grafana dashboard 4" target="_blank" width="300"/>
+    </div>
+</details>
 
