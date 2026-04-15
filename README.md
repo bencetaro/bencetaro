@@ -31,6 +31,7 @@ Here is a snapshot of my work over the past few years:
 <details>
   <summary><b>🖼️  Computer Vision</b></summary>
 
+- [CLIP Hard Example Mining & Finetuning *(classification)* - New⚡️](https://www.kaggle.com/code/bencetar/clip-hard-example-mining-finetuning)
 - [HuBMAP - Hacking the Human Vasculature *(segmentation)*](https://github.com/bencetaro/CV_hubmap_segmenation)
     - [Model comparison (UNet,UNeXt,Swin-Tr)](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/comparison-notebook.ipynb)
     - [Semi-Supervised Learning with UNeXt](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/ssl-notebook-unext.ipynb)
