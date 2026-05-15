@@ -16,68 +16,25 @@ Here is a snapshot of my work over the past few years:
 ## My Public Works
 
 <details>
-  <summary><b>📊 Tabular</b></summary>
+<summary><b>🚀 CLIP-Sat</b></summary>
 
-- [House Prices - Advanced Regression Techniques *(regression)*](https://github.com/bencetaro/tabular_notebooks/blob/main/house_price_regression_spline_gam.ipynb)
-- [Sberbank Russian Housing Market *(regression)*](https://github.com/bencetaro/tabular_notebooks/blob/main/sberbank-notebook.ipynb)
-- [Porto Seguro’s Safe Driver Prediction *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/car-insurance.ipynb)
-- [Spaceship Titanic *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/spaceship-titanic-notebook.ipynb)
-- [Forest Cover Type *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-classification-notebook.ipynb)
-- [Forest Cover Type (Ensemble) *(classification)*](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-ensemble.ipynb)
-- [Time Series Analysis On Vehicles Traffic *(time series analysis)*](https://github.com/bencetaro/tabular_notebooks/blob/main/time-series-forecasting-on-vehicle-traffic.ipynb)
+  [CLIP-Sat repo](https://github.com/bencetaro/CLIP-Sat)
 
 </details>
 
 <details>
-  <summary><b>🖼️  Computer Vision</b></summary>
+<summary><b>⚙️ MLOps Projects</b></summary>
+<br>
 
-- [CLIP Hard Example Mining & Finetuning *(classification)* - New⚡️](https://www.kaggle.com/code/bencetar/clip-hard-example-mining-finetuning)
-- [HuBMAP - Hacking the Human Vasculature *(segmentation)*](https://github.com/bencetaro/CV_hubmap_segmenation)
-    - [Model comparison (UNet,UNeXt,Swin-Tr)](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/comparison-notebook.ipynb)
-    - [Semi-Supervised Learning with UNeXt](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/ssl-notebook-unext.ipynb)
-    - [Cyclical training with an automated LR-finder](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/hubmap-unet-cyclical-training.ipynb)
-- [Performance comparison of SAM-variants for batch-inference *(segmentation)*](https://github.com/tbencegh/SAM_inference)
-- [SAM prompting on Magnetic Tile Surface Defects dataset *(segmentation)*](https://github.com/bencetaro/CV_SAM_prompting/blob/main/sam-test-on-magnetic-tile-surface-defects-dataset.ipynb)
-- [Green space mapping on satellite images *(segmentation)*](https://github.com/bencetaro/CV_sentinel_segment)
-- [Google Research - Identify Contrails to Reduce Global Warming *(segmentation)*](https://github.com/bencetaro/CV_contrail_segmentation_tensorflow/blob/master/contrail-segmentation-tensorflow.ipynb)
-- [Object detection of water bodies on Sentinel images *(object detection)*](https://github.com/bencetaro/CV_sentinel_object_detection)
-- [PetFinder.my - Pawpularity Contest *(classification)*](https://github.com/bencetaro/CV_pawpularity_contest/blob/main/petfinder-with-fastai-resnet50-pretrained.ipynb)
-- [I’m Something of a Painter Myself *(image generation)*](https://github.com/bencetaro/CV_Monet_painting_generator/blob/main/monet-painting-generator-with-cyclegan-pytorch.ipynb)
+> Projects listed oldest (1) → newest (N)
 
-    **Overview pictures**
-    <div style="display: flex; justify-content: space-around;">
-        <p>HuBMAP segmentation</p>
-        <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm2.png" alt="Seg2" target="_blank" width="200"/>
-        <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm4.png" alt="Seg4" target="_blank" width="200"/>
-        <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm1.png" alt="Seg1" target="_blank" width="300"/>
-    </div>
-    <div style="display: flex; justify-content: space-around;">
-        <p>Green space mapping & Contrails results</p>
-        <img src="https://user-images.githubusercontent.com/113855055/193895247-1d26a7ff-115f-4dc7-bac5-b9b1936e7d74.JPG" target="_blank" width="400"/>
-        <img src="https://github.com/bencetaro/CV_contrail_segmentation_tensorflow/blob/master/images/segm_result.png" target="_blank" width="300"/>
-    </div>
-</details>
-
-<details>
-  <summary><b>📚 NLP</b></summary>
-
-- [Shakespeare poem generator *(text generation)*](https://github.com/bencetaro/NLP_Shakespeare_poem_gen/blob/main/shakespeare_poem_generator.ipynb)
-- [RAG-assisted Mistral-7B for QA *(question answering)*](https://github.com/bencetaro/NLP_rag_assisted_mistral)
-- [News-Headlines-Dataset-For-Sarcasm-Detection *(sentiment analysis)*](https://github.com/bencetaro/NLP_sarcasm_sentiment_analysis/blob/main/tf_nlp_sarcasm.ipynb)
-- [IMDB Bag of Words Meets Bags of Popcorn *(sentiment analysis)*](https://github.com/bencetaro/NLP_imdb_sentiment_analysis/blob/master/sentiment-analysis-with-keras.ipynb)
-
-</details>
-
-<details>
-  <summary><b>⚙️ MLOps</b></summary>
-
-- [Docker-based MLOps pipeline](https://github.com/bencetaro/mlops_porto)
-- [Satellite imagery with MLOps (featuring: MLflow, S3, Prometheus, Grafana)](https://github.com/bencetaro/mlops_sentinel)
-- [ML web app & monitoring project (featuring: FastAPI, Streamlit, Prometheus, Grafana)](https://github.com/bencetaro/mlops_porto_monitoring)
-    - [v2: Docker-composed version (new feats: MLflow registry, multi-container training, Docker profiles)](https://github.com/bencetaro/mlops_porto_monitoring_v2)
-    - [v3: Extended with Kubernetes controlled infrastructure](https://github.com/bencetaro/mlops_porto_monitoring_v3)
-- [Simple web app showcasing a GitHub Actions CI/CD pipeline](https://github.com/bencetaro/mlops_streamlit_app)
-
+1. Docker-based MLOps pipeline - [repo](https://github.com/bencetaro/mlops_porto)
+2. Satellite imagery with MLOps (featuring: MLflow, S3, Prometheus, Grafana) - [repo](https://github.com/bencetaro/mlops_sentinel)
+3. ML web app & monitoring project (featuring: FastAPI, Streamlit, Prometheus, Grafana) - [repo](https://github.com/bencetaro/mlops_porto_monitoring)
+    - v2: Docker-composed version (new feats: MLflow registry, multi-container training, Docker profiles) - [repo](https://github.com/bencetaro/mlops_porto_monitoring_v2)
+    - v3: Extended with Kubernetes controlled infrastructure - [repo](https://github.com/bencetaro/mlops_porto_monitoring_v3)
+4. Simple web app showcasing a GitHub Actions CI/CD pipeline - [repo](https://github.com/bencetaro/mlops_streamlit_app)
+---
   **Overview pictures**
     <div style="display: flex; justify-content: space-around;">
         <p>Inference API (Porto Seguro dataset)</p>
@@ -94,3 +51,65 @@ Here is a snapshot of my work over the past few years:
     </div>
 </details>
 
+<details>
+<summary><b>📊 Data Science Projects</b></summary>
+<br>
+
+<summary><b>Tabular</b></summary>
+    
+- House Prices - Advanced Regression Techniques *(regression)* [repo](https://github.com/bencetaro/tabular_notebooks/blob/main/house_price_regression_spline_gam.ipynb)
+- Sberbank Russian Housing Market *(regression)* [repo](https://github.com/bencetaro/tabular_notebooks/blob/main/sberbank-notebook.ipynb)
+- Porto Seguro’s Safe Driver Prediction *(classification)* [repo](https://github.com/bencetaro/tabular_notebooks/blob/main/car-insurance.ipynb)
+- Spaceship Titanic *(classification)* [repo](https://github.com/bencetaro/tabular_notebooks/blob/main/spaceship-titanic-notebook.ipynb)
+- Forest Cover Type *(classification)* [repo](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-classification-notebook.ipynb)
+- Forest Cover Type (Ensemble) *(classification)* [repo](https://github.com/bencetaro/tabular_notebooks/blob/main/forest-cover-type-ensemble.ipynb)
+- Time Series Analysis On Vehicles Traffic *(time series analysis)* [repo](https://github.com/bencetaro/tabular_notebooks/blob/main/time-series-forecasting-on-vehicle-traffic.ipynb)
+
+<summary><b>NLP</b></summary>
+
+- Shakespeare poem generator *(text generation)* [repo](https://github.com/bencetaro/NLP_Shakespeare_poem_gen/blob/main/shakespeare_poem_generator.ipynb)
+- RAG-assisted Mistral-7B for QA *(question answering)* [repo](https://github.com/bencetaro/NLP_rag_assisted_mistral)
+- News-Headlines-Dataset-For-Sarcasm-Detection *(sentiment analysis)* [repo](https://github.com/bencetaro/NLP_sarcasm_sentiment_analysis/blob/main/tf_nlp_sarcasm.ipynb)
+- IMDB Bag of Words Meets Bags of Popcorn *(sentiment analysis)* [repo](https://github.com/bencetaro/NLP_imdb_sentiment_analysis/blob/master/sentiment-analysis-with-keras.ipynb)
+
+<summary><b>Computer Vision</b></summary>
+
+- HuBMAP - Hacking the Human Vasculature *(segmentation)* [repo](https://github.com/bencetaro/CV_hubmap_segmenation)
+    - Model comparison (UNet,UNeXt,Swin-Tr) [repo](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/comparison-notebook.ipynb)
+    - Semi-Supervised Learning with UNeXt [repo](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/ssl-notebook-unext.ipynb)
+    - Cyclical training with an automated LR-finder [repo](https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/hubmap-unet-cyclical-training.ipynb)
+- Performance comparison of SAM-variants for batch-inference *(segmentation)* [repo](https://github.com/tbencegh/SAM_inference)
+- SAM prompting on Magnetic Tile Surface Defects dataset *(segmentation)* [repo](https://github.com/bencetaro/CV_SAM_prompting/blob/main/sam-test-on-magnetic-tile-surface-defects-dataset.ipynb)
+- Green space mapping on satellite images *(segmentation)* [repo](https://github.com/bencetaro/CV_sentinel_segment)
+- Google Research - Identify Contrails to Reduce Global Warming *(segmentation)* [repo](https://github.com/bencetaro/CV_contrail_segmentation_tensorflow/blob/master/contrail-segmentation-tensorflow.ipynb)
+- Object detection of water bodies on Sentinel images *(object detection)* [repo](https://github.com/bencetaro/CV_sentinel_object_detection)
+- PetFinder.my - Pawpularity Contest *(classification)* [repo](https://github.com/bencetaro/CV_pawpularity_contest/blob/main/petfinder-with-fastai-resnet50-pretrained.ipynb)
+- I’m Something of a Painter Myself *(image generation)* [repo](https://github.com/bencetaro/CV_Monet_painting_generator/blob/main/monet-painting-generator-with-cyclegan-pytorch.ipynb)
+
+---
+
+  **Overview pictures**
+  <div style="display: flex; justify-content: space-around;">
+      <p>HuBMAP segmentation</p>
+      <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm2.png" alt="Seg2" target="_blank" width="200"/>
+      <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm4.png" alt="Seg4" target="_blank" width="200"/>
+      <img src="https://github.com/bencetaro/CV_hubmap_segmenation/blob/main/images/segm1.png" alt="Seg1" target="_blank" width="300"/>
+  </div>
+  <div style="display: flex; justify-content: space-around;">
+      <p>Green space mapping & Contrails results</p>
+      <img src="https://user-images.githubusercontent.com/113855055/193895247-1d26a7ff-115f-4dc7-bac5-b9b1936e7d74.JPG" target="_blank" width="400"/>
+      <img src="https://github.com/bencetaro/CV_contrail_segmentation_tensorflow/blob/master/images/segm_result.png" target="_blank" width="300"/>
+  </div>
+
+</details>
+
+## Tech Stack
+
+| Area | Technologies |
+|---|---|
+| Languages | Python, Bash, SQL |
+| Backend & UI | FastAPI, Streamlit |
+| MLOps | MLflow, W&B |
+| Monitoring | Prometheus, Grafana |
+| Infrastructure | Docker, Kubernetes, Linux, GitHub Actions |
+| Database | PostgreSQL |
