@@ -111,5 +111,5 @@ Here is a snapshot of my work over the past few years:
 | Backend & UI | FastAPI, Streamlit |
 | MLOps | MLflow, W&B |
 | Monitoring | Prometheus, Grafana |
-| Infrastructure | Docker, Kubernetes, Linux, GitHub Actions |
+| Infrastructure | Linux, Docker, Kubernetes, GitHub Actions |
 | Database | PostgreSQL |
