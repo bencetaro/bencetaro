@@ -18,7 +18,9 @@ Here is a snapshot of my work over the past few years:
 <details>
 <summary><b>🚀 CLIP-Sat</b></summary>
 
-  [CLIP-Sat repo](https://github.com/bencetaro/CLIP-Sat)
+>  ML app for satellite imagery classification - [repo](https://github.com/bencetaro/CLIP-Sat)
+> - Upload your image or add URL
+> - Generate LLM explanation
 
 </details>
 
@@ -103,13 +105,14 @@ Here is a snapshot of my work over the past few years:
 
 </details>
 
-## Tech Stack
+## Preferred Tools
 
 | Area | Technologies |
 |---|---|
 | Languages | Python, Bash, SQL |
 | Backend & UI | FastAPI, Streamlit |
-| MLOps | MLflow, W&B |
+| ML Frameworks | Pytorch, Tensorflow, Sklearn |
+| Experiment Tracking | MLflow, W&B |
 | Monitoring | Prometheus, Grafana |
 | Infrastructure | Linux, Docker, Kubernetes, GitHub Actions |
 | Database | PostgreSQL |
