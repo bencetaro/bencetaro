@@ -25,7 +25,7 @@ Here is a snapshot of my work over the past few years:
 </details>
 
 <details>
-<summary><b>⚙️ MLOps Projects</b></summary>
+<summary><b>⚙️ MLOps/DevOps Projects</b></summary>
 <br>
 
 > Projects listed oldest (1) → newest (N)
